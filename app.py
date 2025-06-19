@@ -40,6 +40,7 @@ with tab3:
 
 with tab4:
     st.subheader("📄 Download My CV")
-    with open("Aditya Sarda June.pdf", "rb") as f:
-        st.download_button("Download Resume", f, file_name="Aditya_Sarda_CV.pdf")
+   with open("aditya_sarda_cv.pdf", "rb") as f:
+    st.download_button("Download Resume", f, file_name="Aditya_Sarda_CV.pdf")
+
 
