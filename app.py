@@ -1,4 +1,4 @@
-import streamlit as st
+simport streamlit as st
 
 st.set_page_config(page_title="Aditya Sarda | Portfolio", layout="wide")
 
